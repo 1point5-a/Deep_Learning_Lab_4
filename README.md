@@ -32,6 +32,6 @@ pip install numpy matplotlib pandas jupyter
 1. Clone the repository:
    ```bash
    git clone https://github.com/1point5-a/Deep_Learning_Lab_4
-   cd Deep-Learning-Lab
+   cd Deep-Learning-Lab_4
    ```
 2. Open any `.ipynb` file and run the cells in order.
