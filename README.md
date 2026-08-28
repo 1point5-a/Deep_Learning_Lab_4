@@ -6,8 +6,7 @@ A collection of Jupyter notebooks from a Deep Learning lab course, covering foun
 
 | Notebook | Description |
 |---|---|
-| [`Single_Layered_Perceptron.ipynb`](./Single_Layered_Perceptron.ipynb) | Implementation of a single-layer perceptron, covering the core building blocks of neural networks — weights, bias, activation function, and the learning rule. |
-| [`Additional_Tasks_lab1.ipynb`](./Additional_Tasks_lab1.ipynb) | Supplementary exercises extending the concepts from the first lab. |
+| [`Experiment4_Transfer_Learning_CIFAR10_(1).ipynb`](./Experiment4_Transfer_Learning_CIFAR10_(1).ipynb) | Implementation of an experimental demonstration of transfer learning using the CIFAR 10 dataset
 
 ## Getting Started
 
@@ -19,6 +18,8 @@ A collection of Jupyter notebooks from a Deep Learning lab course, covering foun
   - `numpy`
   - `matplotlib`
   - `pandas`
+  - sklearn
+  - tensorflow
 
 Install dependencies with:
 
